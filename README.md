@@ -312,6 +312,6 @@ Credit\_Card\_Financial\_Dashboard
 
 
 
-**Author**
+**Author**\
 **Suryansh Johri**
 
