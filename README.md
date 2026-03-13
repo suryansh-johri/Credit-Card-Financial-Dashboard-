@@ -1,8 +1,8 @@
-Credit Card Financial Dashboard (Power BI)
+## Credit Card Financial Dashboard (Power BI)
 
 
 
-&#x20;**Project Overview**
+**Project Overview**
 
 
 
@@ -14,7 +14,7 @@ The goal of the project is to help stakeholders monitor and analyze credit card 
 
 
 
-&#x20;**Project Objective**
+**Project Objective**
 
 
 
@@ -58,7 +58,7 @@ CSV Dataset – Source data for analysis
 
 
 
-&#x20;**Project Workflow**
+**Project Workflow**
 
 
 
@@ -86,7 +86,7 @@ Import CSV files into SQL tables
 
 
 
-2\.  Data Processing
+2. Data Processing
 
 
 
@@ -110,7 +110,7 @@ Relationship building between tables
 
 
 
-3\. DAX Calculations
+3. DAX Calculations
 
 
 
@@ -120,7 +120,7 @@ Several calculated columns and measures are created using DAX.
 
 Examples:
 
-
+</> DAX
 
 Age Group Classification
 
