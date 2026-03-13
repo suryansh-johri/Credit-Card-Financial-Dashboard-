@@ -120,7 +120,7 @@ Several calculated columns and measures are created using DAX.
 
 Examples:
 
-</> DAX
+
 
 Age Group Classification
 
@@ -162,7 +162,7 @@ Revenue =
 
 
 
-&#x20;**Dashboard Insights**
+**Dashboard Insights**
 
 
 
@@ -170,47 +170,47 @@ Revenue =
 
 
 
-2\. Revenue increased 28.8% week-over-week
+2. Revenue increased 28.8% week-over-week
 
 
 
-3\. Total transaction amount and count increased
+3. Total transaction amount and count increased
 
 
 
-4\. Customer count increased
+4. Customer count increased
 
 
 
-5\. Overall yearly revenue reached 57M
+5. Overall yearly revenue reached 57M
 
 
 
-6\. Total interest earned 8M
+6. Total interest earned 8M
 
 
 
-7\. Total transaction amount 46M
+7. Total transaction amount 46M
 
 
 
-8\. Male customers contribute 31M revenue, female 26M
+8. Male customers contribute 31M revenue, female 26M
 
 
 
-9\. Blue \& Silver credit cards contribute to 93% of transactions
+9. Blue & Silver credit cards contribute to 93% of transactions
 
 
 
-10\. Texas, New York, and California contribute 68% of revenue
+10. Texas, New York, and California contribute 68% of revenue
 
 
 
-11\. Overall activation rate: 57.5%
+11. Overall activation rate: 57.5%
 
 
 
-12\. Overall delinquent rate: 6.06%
+12. Overall delinquent rate: 6.06%
 
 
 
@@ -222,11 +222,11 @@ Revenue =
 
 
 
-2\. Customer segmentation
+2. Customer segmentation
 
 
 
-3\. Card category analysis
+3. Card category analysis
 
 
 
@@ -234,11 +234,11 @@ Revenue =
 
 
 
-5\. Geographic revenue distribution
+5. Geographic revenue distribution
 
 
 
-6\. Activation and delinquency metrics
+6. Activation and delinquency metrics
 
 
 
@@ -282,11 +282,11 @@ Credit\_Card\_Financial\_Dashboard
 
 
 
-2\. Import CSV files into SQL database.
+2. Import CSV files into SQL database.
 
 
 
-3\. Run SQL queries to prepare tables.
+3. Run SQL queries to prepare tables.
 
 
 
@@ -294,11 +294,11 @@ Credit\_Card\_Financial\_Dashboard
 
 
 
-5\. Connect Power BI to the SQL database.
+5. Connect Power BI to the SQL database.
 
 
 
-6\. Refresh data to view the dashboard.
+6. Refresh data to view the dashboard.
 
 
 
@@ -311,6 +311,5 @@ Credit\_Card\_Financial\_Dashboard
 
 
 **Author**
-
 **Suryansh Johri**
 
