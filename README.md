@@ -303,6 +303,7 @@ Credit\_Card\_Financial\_Dashboard
 
 
 **Dashboard Preview**
+![project](https://github.com/suryansh-johri/Credit-Card-Financial-Dashboard-/blob/main/image1.png)
 
 
 
