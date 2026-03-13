@@ -140,7 +140,7 @@ AgeGroup = SWITCH(
 
 &#x20;'public cust\_detail'\[customer\_age] >= 60, "60+",
 
-&#x20;"Unknown"
+"Unknown"
 
 )
 
@@ -230,7 +230,7 @@ Revenue =
 
 
 
-4\. Transaction monitoring
+4. Transaction monitoring
 
 
 
@@ -290,7 +290,7 @@ Credit\_Card\_Financial\_Dashboard
 
 
 
-4\. Open the Power BI (.pbix) file.
+4. Open the Power BI (.pbix) file.
 
 
 
